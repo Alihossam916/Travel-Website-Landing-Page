@@ -53,6 +53,9 @@ nav a {
   padding: 10px 20px;
   transition: all 0.3s ease-in-out;
 }
+.nav-link {
+  border-radius: 10px;
+}
 .nav-link:hover {
   background-color: var(--color-primary);
 }
